@@ -20,7 +20,7 @@
 - ️🎯 Số điện thoại: **Thôi Không Nói**
 
 <hr>
-
+Cách chạy :
 - Đối với chạy file lần đầu nhập ở console:
 + **npm i**
 + **npm i fca-horizon-remake@latest**
